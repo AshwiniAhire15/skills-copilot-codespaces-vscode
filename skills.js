@@ -1,4 +1,3 @@
-const isStringPalindromes = (str) => {
-    let reversedStr = str.split('').reverse().join('');
-    return str === reversedStr;
+function calculateNumbers(var1, var2){
+    console.log(val1 + var2);
 }
